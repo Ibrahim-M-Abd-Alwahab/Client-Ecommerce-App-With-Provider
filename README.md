@@ -3,7 +3,7 @@
 
 Home Screen      | -       
 :-------------------------:|:-------------------------:
-![5](https://user-images.githubusercontent.com/77027841/220716448-1fe3b559-8b0d-4194-babb-42c1a03500c3.jpeg)
+![5](https://user-images.githubusercontent.com/77027841/220717075-45d24b7d-787e-4460-b0f7-32717cccfc53.jpeg)
 
 All Products Screen             |  Product Details Screen
 :-------------------------:|:-------------------------:
@@ -11,6 +11,4 @@ All Products Screen             |  Product Details Screen
 
 All Offers Screen             |  All Categories Screen
 :-------------------------:|:-------------------------:
-
-
-
+![3](https://user-images.githubusercontent.com/77027841/220717639-9eeffb29-f4d5-485c-accc-44675102a774.jpeg) | ![4](https://user-images.githubusercontent.com/77027841/220717624-5f5cd222-d4d0-4d93-9e22-3bf0e76d8d1a.jpeg)
